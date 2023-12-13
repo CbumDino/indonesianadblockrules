@@ -176,6 +176,7 @@ lensaindonesia.com###idcomsensebox1.com-300x250
 lensaindonesia.com###idcomsky1.com-160x600
 lihat.co.id###iklan-dalam-postingan-300
 nanimex.in###iklanFloat
+otakudesu.cam###iklanbawah
 45.12.2.2###iklantengah1
 185.231.223.76###iklap
 185.231.223.76###iklhead
@@ -709,6 +710,7 @@ cdramabase.com##.wpa
 dwa21.org##[class*="banner"]
 kurina.vip##[class="sc__wrp"]
 jalantikus.com##[class^="ad-"][class*="-container"]
+otakudesu.cam##[class^="iklan"]
 neonime.net##[data-src^="https://neonime.net/wp-content/"]:xpath(..)
 nontoncinema.org##[href$="/referral/nontoncinema"]
 sukamovie.club##[href$="/sukamovieclub"]
